@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstAndoidApp</string>
+    <string name="user_name">Enter Name</string>
+    <string name="password">Enter Password</string>
+    <string name="Submit">Submit</string>
+</resources>
